@@ -5,7 +5,7 @@ Project from the fourth Web3 Week (03-jun-24). https://www.luiztools.com.br/w3w
 Our FloodHelp.sol smart contract.
 
 ## dapp
-Our FloodHelp web3 frontend.
+Our FloodHelp web3 frontend. (soon)
 
 ## More
 
